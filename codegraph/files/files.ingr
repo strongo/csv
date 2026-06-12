@@ -1,0 +1,20 @@
+# INGR.io | files: $ID, content_hash, language, size:int, node_count:int, errors
+".github/workflows/ci.yml"
+"f61a40f64ee4ad818c607cdd3ed97a2e6a6b0c2fadf1cfa72ed2371a6ec81842"
+"yaml"
+389
+0
+null
+"string.go"
+"91dd313a8e32a9fe4ec32bc3e2e06e70f1ac71ae58f7fc1294349dba39f5b381"
+"go"
+1406
+9
+null
+"string_test.go"
+"c43e0e6fc6315caf76d14721730b4d97b2e04fe51f90cc3a740b73026e46f58a"
+"go"
+3012
+10
+null
+# 3 records
